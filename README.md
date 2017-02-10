@@ -1,10 +1,13 @@
-Repository name: coursera-get-and-clean-data.
-
+﻿coursera-get-and-clean-data.
+==========
 This repository contains an R script called run_analysis.R that downloads and processes the data on Human Activity Data set. Please see below for information and summary.
 
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
-==================================================================
+
+
+----------
+
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory
 DITEN - Università degli Studi di Genova.
